@@ -1,4 +1,4 @@
 # assainment-5mac
 MAC
 <li>Number 1</li>
-<a hrf="google.com">google.com</a>
+<a href="http://example.com" >Link text</a>
